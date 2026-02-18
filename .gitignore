@@ -8,6 +8,11 @@ venv/
 db.sqlite3
 __pycache__/
 *.pyc
+*.log
+
+# Media & static build files
+media/
+staticfiles/
 
 # Temporary audio files
 temp_audio/
